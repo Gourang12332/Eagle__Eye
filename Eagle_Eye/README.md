@@ -28,5 +28,7 @@ Go into the /frontend_infinite_loop/ directiory, and perform
 
 ### Backend Details
 
-Our backend is built in Google Collab, therefore it won't be directly showcaseable in github, however we assure you it works perfectly.
+Our backend is built in Google Collab, therefore it won't be directly showcaseable in github, however we have provided the Google Colllab link below.
 Code snippets provided in /backend_py/
+
+https://colab.research.google.com/drive/1kG4-I-TRim2KExnxl1S_73v90QWJ_O43?usp=sharing
